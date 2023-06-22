@@ -1,1 +1,3 @@
-# ozflysim.github.io
+# OzFlySIM
+
+### Tips for Flight Simulator
